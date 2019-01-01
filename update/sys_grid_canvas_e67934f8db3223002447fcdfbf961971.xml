@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2019-01-01 23:46:46">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">62793838db3223002447fcdfbf96192e</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-01 23:35:23</sys_created_on>
+        <sys_id>e67934f8db3223002447fcdfbf961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_e67934f8db3223002447fcdfbf961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-01 23:35:23</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">e67934f8db3223002447fcdfbf961971</grid_canvas>
+                <height>18</height>
+                <portal_widget display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_widget>
+                <posx>0</posx>
+                <posy>29</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                <sys_id>03e9fcf8db3223002447fcdfbf961993</sys_id>
+                <sys_mod_count>8</sys_mod_count>
+                <sys_name>e67934f8db3223002447fcdfbf961971</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_03e9fcf8db3223002447fcdfbf961993</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-01-01 23:41:37</sys_updated_on>
+                <width>6</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">62793838db3223002447fcdfbf96192e</page>
+                        <summary>NeedIt Requests by Type</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                        <sys_id>83e9fcf8db3223002447fcdfbf961991</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">e67934f8db3223002447fcdfbf961971</grid_canvas>
+                                <height>18</height>
+                                <portal_widget display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_widget>
+                                <posx>0</posx>
+                                <posy>29</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>03e9fcf8db3223002447fcdfbf961993</sys_id>
+                                <sys_mod_count>8</sys_mod_count>
+                                <sys_name>e67934f8db3223002447fcdfbf961971</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_03e9fcf8db3223002447fcdfbf961993</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:41:37</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>07e9fcf8db3223002447fcdfbf961992</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                                <value>donut</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>43e9fcf8db3223002447fcdfbf961992</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>525a303cdb3223002447fcdfbf9619b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>real_time</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>525a303cdb3223002447fcdfbf9619b3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>565a303cdb3223002447fcdfbf9619b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>5a5a303cdb3223002447fcdfbf9619b1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>5a5a303cdb3223002447fcdfbf9619b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>5e5a303cdb3223002447fcdfbf9619b1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:39:12</sys_created_on>
+                                <sys_id>5e5a303cdb3223002447fcdfbf9619b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:39:12</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>87e9fcf8db3223002447fcdfbf961991</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                                <value>de99fe39db22a3002447fcdfbf961938</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>8fe9fcf8db3223002447fcdfbf961991</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>c7e9fcf8db3223002447fcdfbf961992</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                                <value>NeedIt Requests by Type</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:20">83e9fcf8db3223002447fcdfbf961991</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:20</sys_created_on>
+                                <sys_id>cbe9fcf8db3223002447fcdfbf961991</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:20</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">62793838db3223002447fcdfbf96192e</page>
+                        <summary>Active NeedIt Requests by Type</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                        <sys_id>3fd938b8db3223002447fcdfbf9619ff</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">e67934f8db3223002447fcdfbf961971</grid_canvas>
+                                <height>29</height>
+                                <portal_widget display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>3fd978b8db3223002447fcdfbf961902</sys_id>
+                                <sys_mod_count>46</sys_mod_count>
+                                <sys_name>e67934f8db3223002447fcdfbf961971</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_3fd978b8db3223002447fcdfbf961902</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:41:37</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>3bd978b8db3223002447fcdfbf961901</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>77d978b8db3223002447fcdfbf961901</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>b3d978b8db3223002447fcdfbf961901</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>bfd978b8db3223002447fcdfbf961901</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                                <value>Active NeedIt Requests by Type</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>f7d978b8db3223002447fcdfbf961900</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                                <value>607c3eb9db22a3002447fcdfbf9619c6</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                                <sys_id>fbd978b8db3223002447fcdfbf961901</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-01-01 23:37:07</sys_updated_on>
+                                <value>donut</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">e67934f8db3223002447fcdfbf961971</grid_canvas>
+                <height>29</height>
+                <portal_widget display_value="Created 2019-01-01 15:37:07">3fd938b8db3223002447fcdfbf9619ff</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-01-01 23:37:07</sys_created_on>
+                <sys_id>3fd978b8db3223002447fcdfbf961902</sys_id>
+                <sys_mod_count>46</sys_mod_count>
+                <sys_name>e67934f8db3223002447fcdfbf961971</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_3fd978b8db3223002447fcdfbf961902</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-01-01 23:41:37</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>
